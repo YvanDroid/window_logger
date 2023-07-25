@@ -5,3 +5,7 @@ This python script is intended to check for the currently selected window. It wi
 Only works on windows due to using windows libraries.
 
 This was made to diagnose which applications were stealing focus while gaming.
+
+## Requirements
+install the following packages:
+`pywin32`
